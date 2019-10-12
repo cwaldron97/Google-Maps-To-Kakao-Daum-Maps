@@ -1,0 +1,20 @@
+Google maps Places API 
+	-User input to geocoding 
+		-Retrieve the geographic coordinates 
+
+https://developers.google.com/maps/documentation/geocoding/start
+https://developers.google.com/places/web-service/intro
+https://developers.google.com/maps/documentation/
+
+Kakao Daum Map API
+	http://apis.map.daum.net/android/guide/
+	-Coordinate to address function
+		-https://developers.kakao.com/docs/restapi/local#%EC%A3%BC%EC%86%8C-%EB%B3%80%ED%99%98
+		-https://developers.kakao.com/docs/android
+	-Must register hashkey for each app to Kihei City
+		-https://developers.kakao.com/docs/android#???-??
+		-The key hash that should be registered in the normal Android development environment is debug key release and release key release
+		-
+
+
+Only need the 2nd and 3rd row of the translated address matters for the true address and some potential spelling errors
